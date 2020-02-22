@@ -107,5 +107,5 @@ JAR.
 
 ### Producing an Installer
 
-* Windows: Use IZPack
+* Windows: Use [IZPack](http://izpack.org/)
 * Linux: Use the Maven/Gradle Installer Generator
