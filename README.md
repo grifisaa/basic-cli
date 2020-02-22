@@ -100,7 +100,7 @@ JAR.
 
 ### Creating an Executable Java Launcher
 
-* For linux visit: [java-launcher](https://github.com/hausen/java-launcher)
+* For linux visit: [java-launcher](https://github.com/hausen/java-launcher) an example of this can be found in the folder `launcher`
 * For Windows
   - Use either [JSmooth](http://jsmooth.sourceforge.net/)
   - Or, [Launch4J](http://launch4j.sourceforge.net/index.html)
