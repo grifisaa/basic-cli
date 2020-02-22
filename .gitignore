@@ -13,4 +13,5 @@ build
 /build.sh
 /deploy.sh
 *.iml
+*.idea
 

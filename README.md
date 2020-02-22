@@ -1,4 +1,4 @@
-# A Simple CLI
+# A Simple CLI Example
 
 This project represents two basic components of developing
 a standalone java application with a CLI Interface.
@@ -97,3 +97,15 @@ This will execute the following additional tasks
 It will also create a folder `build/scriptsShadow` which contains
 the linux and windows scripts for running project from the shadowed
 JAR.
+
+### Creating an Executable Java Launcher
+
+* For linux visit: [java-launcher](https://github.com/hausen/java-launcher)
+* For Windows
+  - Use either [JSmooth](http://jsmooth.sourceforge.net/)
+  - Or, [Launch4J](http://launch4j.sourceforge.net/index.html)
+
+### Producing an Installer
+
+* Windows: Use IZPack
+* Linux: Use the Maven/Gradle Installer Generator
